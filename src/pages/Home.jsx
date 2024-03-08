@@ -10,11 +10,11 @@ const Home = () => {
         <h1>PROJECT</h1>
       </div>
 
-      <div>
+      {/* <div>
         <a href="/userInfoForm" alt=".">
           Fill out the form to get started.
         </a>
-      </div>
+      </div> */}
     </div>
   );
 };
