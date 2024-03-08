@@ -106,10 +106,9 @@ const Dashboard = () => {
             </div>
           </div>
         </div>
-
-        <div>
-          <Signup />
-        </div>
+      </div>
+      <div>
+        <Signup />
       </div>
     </div>
   );
